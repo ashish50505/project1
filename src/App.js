@@ -5,7 +5,7 @@ import Component from './Component';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar/>
       <Component/>
     </div>
